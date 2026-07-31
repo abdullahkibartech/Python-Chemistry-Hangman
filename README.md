@@ -29,4 +29,6 @@ The game includes a custom-designed interface, animated gameplay elements, and a
 - Python
 - Pygame library 
 
-## Project Structure
+## Installation and Running
+
+To run the game, first make sure Python is installed on your computer.Download or you can clone this repository to your computer, then open a terminal inside the project folder. Install the required Pygame library by running `pip install pygame`. After the installation is complete, start the game by running `python game.py`.
